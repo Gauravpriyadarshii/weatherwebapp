@@ -19,7 +19,7 @@ ForecastForge: Your weather companion crafting precision forecasts. With real-ti
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/SHIV000000/ForecastForge.git
+git clone https://github.com/Gauravpriyadarshii/weatherwebapp.git
 ```
 ### Change into the project directory:
 
